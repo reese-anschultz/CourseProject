@@ -1,7 +1,7 @@
 # Read in the activity labels file and return a data frame
 # By Reese Anschultz
 
-setwd("C:\\Users\\Reese Anschultz\\Desktop\\RProgramming\\getdata_projectfiles_UCI HAR Dataset")
+#setwd("C:\\Users\\Reese Anschultz\\Desktop\\RProgramming\\getdata_projectfiles_UCI HAR Dataset")
 
 # Variable values
 data.home.directory <- "UCI HAR Dataset"  # Relative to current working directory
