@@ -6,7 +6,8 @@ output: html_document
 ### Distill the Samsung Galaxy S Smartphone accelerometer data to averages per subject activity
 
 subject 
-* 1..30 Identifier of test subject
+* 1..30 Identifier of test subject  
+
 activity  - Subject's activity
 * WALKING
 * WALKING_UPSTAIRS

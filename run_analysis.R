@@ -1,4 +1,4 @@
-# Read in the activity labels file and return a data frame
+# Distill the Samsung Galaxy S Smartphone accelerometer data to averages per subject activity
 # By Reese Anschultz
 
 #setwd("C:\\Users\\Reese Anschultz\\Desktop\\RProgramming\\getdata_projectfiles_UCI HAR Dataset")
